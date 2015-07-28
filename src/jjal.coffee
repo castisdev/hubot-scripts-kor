@@ -12,8 +12,6 @@
 #   아아아아
 #   규석
 #
-# Author:
-#   mnpk <mnncat@gmail.com>
 
 module.exports = (robot) ->
     robot.hear /좌절/, (msg) ->
