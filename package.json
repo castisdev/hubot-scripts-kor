@@ -1,14 +1,14 @@
 {
-  "name": "hubot-scripts-kor",
-  "description": "한글 휴봇 스크립트",
+  "name": "hubot-scripts-kor-castis",
+  "description": "castis 한글 휴봇 스크립트",
   "version": "0.1.4",
   "main": "index.coffee",
-  "author": "mnpk <mnncat@gmail.com>",
+  "author": "alexyun <pinkcubrick@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/mnpk/hubot-scripts-kor",
+  "homepage": "https://github.com/castisdev/hubot-scripts-kor",
   "repository": {
     "type": "git",
-    "url": "git@github.com:mnpk/hubot-scripts-kor"
+    "url": "git@github.com:castisdev/hubot-scripts-kor"
   },
   "keywords": [
     "hubot",
@@ -17,7 +17,7 @@
     "devops"
   ],
   "bugs": {
-    "url": "https://github.com/mnpk/hubot-scripts-kor/issues"
+    "url": "https://github.com/castisdev/hubot-scripts-kor/issues"
   },
   "dependencies": {},
   "bin": {},

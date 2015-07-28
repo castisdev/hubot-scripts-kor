@@ -23,4 +23,4 @@ module.exports = (robot) ->
         msg.send "http://pds21.egloos.com/pds/201308/25/63/b0003363_52197d5c29f97.jpg"
 
     robot.hear /규석/, (msg)->
-        msg.send "http://i.imgur.com/grYEapt.jpg"
+        msg.send "http://appdata.hungryapp.co.kr/data_file/data_img/201402/11/WZspbBk139208240139501241.jpg"
