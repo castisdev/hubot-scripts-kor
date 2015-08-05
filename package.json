@@ -1,7 +1,7 @@
 {
   "name": "hubot-scripts-kor-castis",
   "description": "castis 한글 휴봇 스크립트",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "main": "index.coffee",
   "author": "alexyun <pinkcubrick@gmail.com>",
   "license": "MIT",
