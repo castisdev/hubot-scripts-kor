@@ -12,6 +12,7 @@
 #   아아아아
 #   hubot 아버지 - castis hubot의 아버지
 #   의미없다
+#   포기
 #
 
 module.exports = (robot) ->
@@ -26,3 +27,6 @@ module.exports = (robot) ->
 
     robot.hear /의미 *없[다|군|네|음]/, (msg) ->
         msg.send "http://i.imgur.com/2GiXizJ.png"
+
+    robot.hear /포기/, (msg) ->
+        msg.send "http://ipuris.sshel.com/wordpress/wp-content/uploads/2007/02/1025013483.jpg"
